@@ -154,9 +154,9 @@ best_rapper = "Kendrick"
 now_playing = ""  # change this value and see how the output of the expression below changes
 
 if now_playing == best_rapper:
-    return "Nice. You have good taste."
+    print( "Nice. You have good taste.")
 else:
-    return "You should probably be listening to Kendrick."
+    print( "You should probably be listening to Kendrick.")
 
 """
            _____  ____ _____ _______ _____            _______     __                    
