@@ -8,6 +8,7 @@ pylint = "*"
 black = "*"
 numpy = "*"
 pandas = "*"
+matplotlib = "*"
 
 [dev-packages]
 
